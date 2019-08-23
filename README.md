@@ -1,5 +1,4 @@
 # IETF 106 project presentations
-Presentations of project results at end of hackathon
 
 This repo is for IETF hackathon participants to upload their hackathon project presentations. The contents of this repo will be used as the source for all project presentations at the end of the hackathon. Presentations will be presented from a shared ChromeBook at the front of the hackathon room. **For best results, upload your presentation in PDF format.**
 
